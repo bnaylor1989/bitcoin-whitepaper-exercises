@@ -1,0 +1,6 @@
+transactions/keys/
+transactions/node_modules/
+transactions/package-lock.json
+wallet/keys/
+wallet/node_modules/
+wallet/package-lock.json
